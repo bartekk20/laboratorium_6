@@ -27,4 +27,4 @@ try:
 except:
     print("3x3 * 2x3 blad mnozenia")
 
-# Liczba kolumn pierwszej macierzy musi odpowiadać liczbie wierszy drugiej. Ponieważ mnożenie macierzy nie jest przemienne zmiana A@B na B@A całkowicie zmienia układ
+# Liczba kolumn pierwszej macierzy musi odpowiadać liczbie wierszy drugiej. Ponieważ mnożenie macierzy nie jest przemienne zmiana A@B na B@A całkowicie zmienia układ``
